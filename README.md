@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto se centra en la extracción y análisis de datos públicos relacionados con noticias, temperatura y tipo de cambio. Los datos obtenidos son cruciales para el caso de estudio: *previsión de demanda y estrategia de precios* con el objetivo de solucionar la falta de inventario en la empresa.
+Este trabajo se centra en la extracción y análisis de datos públicos relacionados con noticias, temperatura y tipo de cambio. Los datos obtenidos son cruciales para el caso de estudio: *previsión de demanda y estrategia de precios* con el objetivo de solucionar la falta de inventario en la empresa.
 
 A lo largo de este notebook, se extraen datos relevantes de fuentes públicas y se analizan indicadores de calidad de los datos. Estos indicadores son fundamentales para asegurar que el conjunto de datos extraído sea adecuado para ser utilizado en soluciones analíticas dentro de la empresa.
 
